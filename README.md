@@ -1,2 +1,2 @@
-# universityDB
-creates by : shirin :)) & milad (i hate u milad ) :((
+# University DataBase
+Creates by: Shirin & Milad (IHUM)
